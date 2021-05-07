@@ -56,5 +56,8 @@ https://developers.kakao.com/tool/clear/og
 후 Slack 이나 카카오톡, 페이스북, 인스타그램 등에서 링크 보내서 확인. . . 
 
 
+### 언젠가 defaultSEO 를 만들어서 app.jsx 에 넣을 수 있도록 할게용 언젠가 ㅎㅎ 
+
+
 #### 삽질의 흔적
 https://morohaji.tistory.com/24
